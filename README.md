@@ -1,6 +1,6 @@
 # hello-world
 
-GitHub Tutorial
+<h1>GitHub Tutorial</h1>
 
 <p>This is my edit.</p>
 <p>I'm learning to code again.</p>
